@@ -127,6 +127,9 @@ label{
     form{
         margin-top: 90px;
     }
+    .ckd{
+        font-size: 0.7rem;
+    }
 }
 @media screen and (max-width:414px) and (min-width:360px){
     .main{
